@@ -1,0 +1,11 @@
+{
+  "name": "exo-expressions-conditions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:D-Savel/exo-expressions-conditions.git",
+  "author": "D-Savel <dad.savel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
