@@ -1,4 +1,4 @@
-let list = ['Alice', 'Bob', 'Charlie', 'Craig', 'Eva']
+let list = ['Alice', 'Bob', 'Charlie', 'Craig', 'Eve']
 for (let i = 0; i < list.length; ++i) {
   list[i] = list[i].toUpperCase()
   switch (list[i]) {
